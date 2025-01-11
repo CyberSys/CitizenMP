@@ -1,0 +1,81 @@
+[submodule "vendor/jitasm"]
+	path = vendor/jitasm
+	url = https://github.com/citizenfx/jitasm.git
+[submodule "vendor/msgpack-c"]
+	path = vendor/msgpack-c
+	url = https://github.com/msgpack/msgpack-c.git
+	ignore = dirty
+[submodule "vendor/zlib"]
+	path = vendor/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "vendor/protobuf"]
+	path = vendor/protobuf
+	url = https://github.com/google/protobuf.git
+[submodule "vendor/breakpad"]
+	path = vendor/breakpad
+	url = https://github.com/citizenfx/breakpad.git
+[submodule "vendor/udis86"]
+	path = vendor/udis86
+	url = https://github.com/citizenfx/udis86.git
+[submodule "vendor/tinyxml2"]
+	path = vendor/tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "vendor/yaml-cpp"]
+	path = vendor/yaml-cpp
+	url = https://github.com/CyberSys/yaml-cpp.git	
+[submodule "vendor/xz"]
+	path = vendor/xz
+	url = https://github.com/xz-mirror/xz.git
+[submodule "vendor/curl"]
+	path = vendor/curl
+	url = https://github.com/citizenfx/curl.git
+[submodule "vendor/cpp-url"]
+	path = vendor/cpp-url
+	url = https://github.com/citizenfx/cpp-url.git
+[submodule "vendor/lua-cmsgpack"]
+	path = vendor/lua-cmsgpack
+	url = https://github.com/citizenfx/lua-cmsgpack.git
+	branch = grit
+[submodule "vendor/lua-rapidjson"]
+	path = vendor/lua-rapidjson
+	url = https://github.com/citizenfx/lua-rapidjson.git
+	branch = grit
+[submodule "vendor/lua"]
+	path = vendor/lua
+	url = https://github.com/citizenfx/lua.git
+	branch = luaglm-dev/cfx
+[submodule "vendor/tinygltf"]
+	path = vendor/tinygltf
+	url = https://github.com/syoyo/tinygltf.git
+[submodule "vendor/lss"]
+	path = vendor/lss
+	url = https://chromium.googlesource.com/linux-syscall-support/
+	path = vendor/eabase
+	url = https://github.com/citizenfx/EABase.git
+[submodule "vendor/zstd"]
+	path = vendor/zstd
+	url = https://github.com/facebook/zstd.git
+[submodule "vendor/freetype"]
+	path = vendor/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "vendor/nljson"]
+	path = vendor/nljson
+	url = https://github.com/nlohmann/json.git
+[submodule "vendor/cpu_features"]
+	path = vendor/cpu_features
+	url = https://github.com/google/cpu_features.git
+[submodule "vendor/rnnoise"]
+	path = vendor/rnnoise
+	url = https://github.com/mumble-voip/rnnoise.git
+[submodule "vendor/msgpack-cpp"]
+	path = vendor/msgpack-cpp
+	url = https://github.com/msgpack/msgpack-c.git
+[submodule "vendor/boost"]
+	path = vendor/boost
+	url = https://github.com/CyberSys/boost_1_55_0.git
+[submodule "uhttpsharp"]
+  path = Vendor/uHttpSharp
+  url = http://github.com/CyberSys/uhttpsharp.git
+[submodule "Vendor/npsharp"]
+	path = Vendor/npsharp
+	url = http://github.com/CyberSys/npsharp.git

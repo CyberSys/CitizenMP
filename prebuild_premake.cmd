@@ -1,4 +1,4 @@
 @echo off
 cd build\premake
-..\premake5 vs2013
-..\premake5 embed
+..\premake5.exe vs2017
+..\premake5.exe embed
