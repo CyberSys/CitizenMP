@@ -1,31 +1,31 @@
 [submodule "vendor/jitasm"]
 	path = vendor/jitasm
-	url = https://github.com/citizenfx/jitasm.git
+	url = https://github.com/CyberSys/jitasm.git
 [submodule "vendor/msgpack-c"]
 	path = vendor/msgpack-c
-	url = https://github.com/msgpack/msgpack-c.git
+	url = https://github.com/CyberSys/msgpack-c.git
 	ignore = dirty
 [submodule "vendor/zlib"]
 	path = vendor/zlib
-	url = https://github.com/madler/zlib.git
+	url = https://github.com/CyberSys/zlib.git
 [submodule "vendor/protobuf"]
 	path = vendor/protobuf
-	url = https://github.com/google/protobuf.git
+	url = https://github.com/CyberSys/protobuf.git
 [submodule "vendor/breakpad"]
 	path = vendor/breakpad
-	url = https://github.com/citizenfx/breakpad.git
+	url = https://github.com/CyberSys/breakpad1.git
 [submodule "vendor/udis86"]
 	path = vendor/udis86
-	url = https://github.com/citizenfx/udis86.git
+	url = https://github.com/CyberSys/udis86.git
 [submodule "vendor/tinyxml2"]
 	path = vendor/tinyxml2
-	url = https://github.com/leethomason/tinyxml2.git
+	url = https://github.com/CyberSys/tinyxml2.git
 [submodule "vendor/yaml-cpp"]
 	path = vendor/yaml-cpp
-	url = https://github.com/CyberSys/yaml-cpp.git	
+	url = https://github.com/CyberSys/yaml-cpp.git
 [submodule "vendor/xz"]
 	path = vendor/xz
-	url = https://github.com/xz-mirror/xz.git
+	url = https://github.com/CyberSys/xz1.git
 [submodule "vendor/curl"]
 	path = vendor/curl
 	url = https://github.com/citizenfx/curl.git
@@ -54,7 +54,7 @@
 	url = https://github.com/citizenfx/EABase.git
 [submodule "vendor/zstd"]
 	path = vendor/zstd
-	url = https://github.com/facebook/zstd.git
+	url = https://github.com/CyberSys/zstd.git
 [submodule "vendor/freetype"]
 	path = vendor/freetype
 	url = https://github.com/freetype/freetype.git
@@ -79,3 +79,21 @@
 [submodule "Vendor/npsharp"]
 	path = Vendor/npsharp
 	url = http://github.com/CyberSys/npsharp.git
+[submodule "vendor/uhttpsharp"]
+	path = vendor/uhttpsharp
+	url = https://github.com/CyberSys/uhttpsharp.git
+[submodule "vendor/NPSharp"]
+	path = vendor/NPSharp
+	url = https://github.com/CyberSys/NPSharp.git
+[submodule "vendor/lz4"]
+	path = vendor/lz4
+	url = https://github.com/CyberSys/lz4.git
+[submodule "vendor/minizip"]
+	path = vendor/minizip
+	url = https://github.com/CyberSys/minizip.git
+[submodule "vendor/pash"]
+	path = vendor/pash
+	url = https://github.com/CyberSys/pash
+[submodule "vendor/uri"]
+	path = vendor/uri
+	url = https://github.com/CyberSys/uri.git
